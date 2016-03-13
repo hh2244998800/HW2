@@ -12,4 +12,4 @@ public class Test1 {
         System.out.println("總和:"+sum+" 平均:"+avg);
     }
     
-}
+} 
